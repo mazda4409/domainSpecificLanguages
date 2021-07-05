@@ -1,1 +1,1 @@
-Regex_Pattern = r'hackerrank'	# specific 
+Regex_Pattern = r'hackerrank'	# specific string match
